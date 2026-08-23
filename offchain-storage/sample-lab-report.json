@@ -1,0 +1,84 @@
+{
+  "_disclaimer": "SYNTHETIC DATA — This is a FAKE medical record created for educational/prototype purposes ONLY. This is NOT real patient data. Never use real patient information with this prototype.",
+  "documentType": "Laboratory Report",
+  "reportType": "Complete Blood Count (CBC)",
+  "reportId": "LAB-2024-00142",
+  "reportDate": "2024-07-10",
+  "issuingLab": "General Hospital Simulator — Pathology Department (DUMMY)",
+  "patient": {
+    "name": "Alice Johnson (DUMMY)",
+    "dateOfBirth": "1990-03-15",
+    "patientId": "DUMMY-P-001",
+    "gender": "Female"
+  },
+  "orderingPhysician": {
+    "name": "Dr. Robert Smith (DUMMY), MD",
+    "licenseId": "MD-DUMMY-5523",
+    "department": "Internal Medicine"
+  },
+  "results": {
+    "WBC": {
+      "value": 6.8,
+      "unit": "10^3/uL",
+      "referenceRange": "4.5 - 11.0",
+      "flag": "Normal"
+    },
+    "RBC": {
+      "value": 4.7,
+      "unit": "10^6/uL",
+      "referenceRange": "4.0 - 5.5",
+      "flag": "Normal"
+    },
+    "Hemoglobin": {
+      "value": 13.9,
+      "unit": "g/dL",
+      "referenceRange": "12.0 - 16.0",
+      "flag": "Normal"
+    },
+    "Hematocrit": {
+      "value": 41.2,
+      "unit": "%",
+      "referenceRange": "36.0 - 46.0",
+      "flag": "Normal"
+    },
+    "MCV": {
+      "value": 87.5,
+      "unit": "fL",
+      "referenceRange": "80.0 - 100.0",
+      "flag": "Normal"
+    },
+    "MCH": {
+      "value": 29.6,
+      "unit": "pg",
+      "referenceRange": "27.0 - 33.0",
+      "flag": "Normal"
+    },
+    "MCHC": {
+      "value": 33.7,
+      "unit": "g/dL",
+      "referenceRange": "32.0 - 36.0",
+      "flag": "Normal"
+    },
+    "Platelets": {
+      "value": 245,
+      "unit": "10^3/uL",
+      "referenceRange": "150 - 400",
+      "flag": "Normal"
+    },
+    "Neutrophils": {
+      "value": 58,
+      "unit": "%",
+      "referenceRange": "40 - 75",
+      "flag": "Normal"
+    },
+    "Lymphocytes": {
+      "value": 31,
+      "unit": "%",
+      "referenceRange": "20 - 45",
+      "flag": "Normal"
+    }
+  },
+  "interpretation": "All values within normal reference ranges. No follow-up required based on CBC alone.",
+  "notes": "Specimen collected by venipuncture. Processed within 2 hours of collection.",
+  "electronicSignature": "Dr. Robert Smith (DUMMY), MD — Digitally signed 2024-07-10T14:22:00Z"
+}

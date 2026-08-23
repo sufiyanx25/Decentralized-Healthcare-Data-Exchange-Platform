@@ -1,0 +1,49 @@
+{
+  "_disclaimer": "SYNTHETIC DATA — This is a FAKE prescription created for educational/prototype purposes ONLY. This is NOT real patient data. Never use real patient information with this prototype.",
+  "documentType": "Prescription",
+  "prescriptionId": "RX-2024-005893",
+  "issuedDate": "2024-07-12",
+  "validUntil": "2024-08-12",
+  "issuingHospital": "General Hospital Simulator (DUMMY)",
+  "patient": {
+    "name": "Alice Johnson (DUMMY)",
+    "dateOfBirth": "1990-03-15",
+    "patientId": "DUMMY-P-001",
+    "allergies": ["Penicillin (DUMMY ALLERGY — NOT REAL)"]
+  },
+  "prescribingDoctor": {
+    "name": "Dr. Robert Smith (DUMMY), MD",
+    "licenseId": "MD-DUMMY-5523",
+    "specialization": "Internal Medicine",
+    "contactExtension": "DUMMY-EXT-204"
+  },
+  "diagnosis": {
+    "code": "J02.0 (DUMMY)",
+    "description": "Acute Streptococcal Pharyngitis (DUMMY DIAGNOSIS)"
+  },
+  "medications": [
+    {
+      "name": "Amoxicillin (DUMMY — NOT A REAL PRESCRIPTION)",
+      "dosage": "500 mg",
+      "form": "Capsule",
+      "frequency": "3 times daily (every 8 hours)",
+      "duration": "7 days",
+      "totalQuantity": "21 capsules",
+      "refills": 0,
+      "instructions": "Take with food or milk. Complete the full course even if feeling better."
+    },
+    {
+      "name": "Ibuprofen (DUMMY — NOT A REAL PRESCRIPTION)",
+      "dosage": "400 mg",
+      "form": "Tablet",
+      "frequency": "As needed, maximum 3 times daily",
+      "duration": "5 days",
+      "totalQuantity": "15 tablets",
+      "refills": 0,
+      "instructions": "Take with food. Do not exceed 1200 mg per day. Avoid if stomach upset occurs."
+    }
+  ],
+  "clinicalNotes": "Patient presents with sore throat, mild fever (37.8°C DUMMY), and difficulty swallowing. Rapid strep test positive (DUMMY). Prescribed antibiotic course and analgesic for symptomatic relief.",
+  "followUp": "Return in 10 days if symptoms do not improve or if new symptoms develop.",
+  "electronicSignature": "Dr. Robert Smith (DUMMY), MD — Digitally signed 2024-07-12T09:45:00Z"
+}

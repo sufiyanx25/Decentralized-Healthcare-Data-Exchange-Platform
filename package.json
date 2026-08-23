@@ -1,0 +1,29 @@
+{
+  "name": "decentralized-healthcare-data-exchange",
+  "version": "1.0.0",
+  "description": "Blockchain-based healthcare data exchange platform — educational prototype only. Uses Solidity, Hardhat, Ethers.js, MetaMask, and React.",
+  "private": true,
+  "scripts": {
+    "compile":  "hardhat compile",
+    "test":     "hardhat test",
+    "node":     "hardhat node",
+    "deploy":   "hardhat run scripts/deploy.js --network localhost",
+    "coverage": "hardhat coverage"
+  },
+  "keywords": [
+    "blockchain",
+    "healthcare",
+    "solidity",
+    "hardhat",
+    "ethers",
+    "web3",
+    "smart-contract",
+    "ethereum"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
