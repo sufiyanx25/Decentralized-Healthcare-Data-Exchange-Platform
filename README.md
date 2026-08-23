@@ -278,7 +278,7 @@ The working prototype demonstrates:
 
 ## Author
 
-*Your Name — [GitHub Profile]*
+*Sufiyan Mangalgatti [GitHub](https://github.com/sufiyanx25)*
 
 ---
 
